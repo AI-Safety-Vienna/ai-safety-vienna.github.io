@@ -4,9 +4,13 @@ This site is about AI safety in Vienna. You will find pointers to events, people
 
 <details>
 <summary>⚠️ Help me improve this very incomplete list</summary>
-- open a PR
-- file an issue
+
+- [open a PR](https://github.com/AI-Safety-Vienna/ai-safety-vienna.github.io/pulls)
+
+- [file an issue](https://github.com/AI-Safety-Vienna/ai-safety-vienna.github.io/issues)
+
 - send an e-mail to safe.ai.vienna@gmail.com
+
 </details> 
 
 ## Events
