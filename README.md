@@ -2,8 +2,8 @@
 
 This site is about AI safety in Vienna. You will find pointers to events, people, organizations relevant to AI safety.
 
-<details>
-<summary>⚠️ Help me improve this very incomplete list</summary>
+## 📈 Help me improve this
+⚠️ This list is just a stub. Help me improve this by
 
 - [open a PR](https://github.com/AI-Safety-Vienna/ai-safety-vienna.github.io/pulls)
 
@@ -11,15 +11,16 @@ This site is about AI safety in Vienna. You will find pointers to events, people
 
 - send an e-mail to safe.ai.vienna@gmail.com
 
-</details> 
+🤝 Please also share any other suggestions for connecting the Vienna AI safety community 🤝
 
-## Events
+
+## 📅 Events
 - [AISafety 2022 workshop at IJCAI-ECAI-22](https://www.aisafetyw.org/), July 24-25, 2022.
 
-## Organizations
+## 🏢 Organizations
 - [Mathias Samwald research group](https://samwald.info/) at the [Institute of Artificial Intelligence](http://www.ai.meduniwien.ac.at/en/) at the Medical University of Vienna
 
-## People
+## 🧑‍🤝‍🧑 People
 - [Jason Hoelscher-Obermaier](https://github.com/jas-ho)
 
 
